@@ -1,0 +1,20 @@
+發明專利證書-I368494-遠端即時心復健訓練與自動監控回覆裝置及方法		發明人：吳明峰、溫志煜、許正園、王經篤		專利權人：國立中興大學、行政院國軍退除役官兵輔導委員會台中榮民總醫院		專利權期間：2012年7月21日至2029年1月9日止
+(U.S. Patent No. 10,409,844) 		Method for Extracting Maximal Repeat Patterns and Computing Frequency Distribution Tables. 		Applicant :Ching-Tu Wang, Taichung (TW)(Jing-Doo Wang) 		Inventor :Ching-Tu Wang, Taichung (TW)(Jing-Doo Wang) 		Period : 2019.9.10 - 2038.2.23 
+Book Title:		"Bioinformatics in the Era of Post Genomics and Big Data"	 Edited by: Prof. Ibrokhim AbdurakhmonovPublisher: InTechOpenNovember 2018ISBN:978-953-51-6056-4 				Chapter:				A novel approach to mine for genetic markers via comparing class frequency distributions of maximal repeats 					extracted from tagged whole genomic sequencesJing-Doo Wang
+Edited by: Prof. Ibrokhim Abdurakhmonov
+Publisher: InTechOpen
+November 2018
+ISBN:978-953-51-6056-4 
+				Chapter:				A novel approach to mine for genetic markers via comparing class frequency distributions of maximal repeats 					extracted from tagged whole genomic sequencesJing-Doo Wang
+Book Title: Discoveries and Breakthroughs in Cognitive Informatics and Natural IntelligenceEdited by: Yingxu Wang, University of Calgary, CanadaNovember 2009ISBN: 978-1-60566-902-1 				Chapter 28: Scaling Behavior of Maximal Repeat Distributions in Genomic Sequences --A Randomize Test Follow Up StudyJ.D. Wang and Ka-Lok Ng 			
+Edited by: Yingxu Wang, University of Calgary, Canada
+November 2009
+ISBN: 978-1-60566-902-1 
+				Chapter 28: Scaling Behavior of Maximal Repeat Distributions in Genomic Sequences --A Randomize Test Follow Up StudyJ.D. Wang and Ka-Lok Ng 			
+  		Online Web query system for various frequency distributions of bus passengers in Taichung city of Taiwan 		 Jing-Doo Wangand Shin-Hung Pan *, Cheng-Yuan Ho, Shu-chuan Liao, Yao-Nan Lien and Achmad Nurmandi(*: Corresponding author)	IET Smart Cities (Special issue:　Geospatial Sensing, Mining & Analytics for Smart Cities) 
+(Submitted) 		Extracting Common DNA Sequences in Complete Genomes of 7538 Viruses and Five selected MammalsJing-Doo Wang,Yi-Chun Wang, Rouh-Mei Hu andJeffrey Tsai International Journal of Data Mining and Bioinformatics (IJDMB)(SCIE) 
+A Novel Approach to Extract Significant Time Interval Patterns of Vehicles from Freeway Gantry Timestamp SequencesJing-Doo Wang and Ming-Chorng Hwang Applied Sciences, 2017, 7(9), 878; doi:10.3390/app7090878. (SCIE, IF=1.679)(Special Issue "Selected Papers from IEEE ICASI 2017") 
+Extracting Significant Pattern Histories from Timestamped Texts using MapReduceJing-Doo WangJournal of Supercomputing, 72(8), pp. 3236-3260, DOI 10.1007/s11227-016-1713-z, April 2016(SCI, SCIE 2014 JCR ,IF=0.858,RANK=56/102, COMPUTER SCIENCE, THEORY & METHODS)
+ Shape Query for Pattern History in PubMed Literatures via Haar WaveletJing-Doo Wang, Zhong-Kai Jiang, Jui-Chi Chen International Journal of Advanced Information Technologies(IJAIT), Vol. 9 ;No. 6. pp. 67-76, December 2015.	
+	Combination Therapy Using Chelating Agent and Zinc for Wilson’s Disease. 
+ A Novel BLAST-Based Relative Distance (BBRD) Method Can Effectively Group Members ofProtein ArginineMethyltransferases and Suggest theirEvolutionary Relationship. 
